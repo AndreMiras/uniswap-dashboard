@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7222e022009246bfc82c9d7aac491530",
+    "revision": "b61321a5d3fd0c7827af33708a3b2610",
     "url": "/uniswap-dashboard/index.html"
   },
   {
-    "revision": "d2ae0c916b8504f2a13d",
+    "revision": "f817b9adcd5de7a8d607",
     "url": "/uniswap-dashboard/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uniswap-dashboard/static/js/8.9d3a5ef0.chunk.js"
   },
   {
-    "revision": "d2ae0c916b8504f2a13d",
-    "url": "/uniswap-dashboard/static/js/main.7cd0e6db.chunk.js"
+    "revision": "f817b9adcd5de7a8d607",
+    "url": "/uniswap-dashboard/static/js/main.1af66cd6.chunk.js"
   },
   {
     "revision": "e02a77669fb0c0a5539d",
