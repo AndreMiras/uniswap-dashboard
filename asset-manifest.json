@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.3433e1d1.chunk.js": "/uniswap-dashboard/static/js/0.3433e1d1.chunk.js",
+    "static/js/0.3433e1d1.chunk.js.map": "/uniswap-dashboard/static/js/0.3433e1d1.chunk.js.map",
+    "static/js/1.7866fad6.chunk.js": "/uniswap-dashboard/static/js/1.7866fad6.chunk.js",
+    "static/js/1.7866fad6.chunk.js.map": "/uniswap-dashboard/static/js/1.7866fad6.chunk.js.map",
+    "static/js/2.24fe2b74.chunk.js": "/uniswap-dashboard/static/js/2.24fe2b74.chunk.js",
+    "static/js/2.24fe2b74.chunk.js.map": "/uniswap-dashboard/static/js/2.24fe2b74.chunk.js.map",
+    "main.css": "/uniswap-dashboard/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/uniswap-dashboard/static/js/main.a87b9818.chunk.js",
+    "main.js.map": "/uniswap-dashboard/static/js/main.a87b9818.chunk.js.map",
+    "runtime-main.js": "/uniswap-dashboard/static/js/runtime-main.8b12f387.js",
+    "runtime-main.js.map": "/uniswap-dashboard/static/js/runtime-main.8b12f387.js.map",
+    "static/js/5.e135e746.chunk.js": "/uniswap-dashboard/static/js/5.e135e746.chunk.js",
+    "static/js/5.e135e746.chunk.js.map": "/uniswap-dashboard/static/js/5.e135e746.chunk.js.map",
+    "static/js/6.01a55829.chunk.js": "/uniswap-dashboard/static/js/6.01a55829.chunk.js",
+    "static/js/6.01a55829.chunk.js.map": "/uniswap-dashboard/static/js/6.01a55829.chunk.js.map",
+    "static/js/7.b3dc332a.chunk.js": "/uniswap-dashboard/static/js/7.b3dc332a.chunk.js",
+    "static/js/7.b3dc332a.chunk.js.map": "/uniswap-dashboard/static/js/7.b3dc332a.chunk.js.map",
+    "static/js/8.460f2b12.chunk.js": "/uniswap-dashboard/static/js/8.460f2b12.chunk.js",
+    "static/js/8.460f2b12.chunk.js.map": "/uniswap-dashboard/static/js/8.460f2b12.chunk.js.map",
+    "index.html": "/uniswap-dashboard/index.html",
+    "precache-manifest.3dc94481d8df5c1fa4feba9e8ed511b4.js": "/uniswap-dashboard/precache-manifest.3dc94481d8df5c1fa4feba9e8ed511b4.js",
+    "service-worker.js": "/uniswap-dashboard/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/uniswap-dashboard/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/0.3433e1d1.chunk.js.LICENSE.txt": "/uniswap-dashboard/static/js/0.3433e1d1.chunk.js.LICENSE.txt",
+    "static/js/1.7866fad6.chunk.js.LICENSE.txt": "/uniswap-dashboard/static/js/1.7866fad6.chunk.js.LICENSE.txt",
+    "static/js/5.e135e746.chunk.js.LICENSE.txt": "/uniswap-dashboard/static/js/5.e135e746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b12f387.js",
+    "static/js/5.e135e746.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a87b9818.chunk.js"
+  ]
+}
